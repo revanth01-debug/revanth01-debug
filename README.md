@@ -23,10 +23,15 @@ Passionate about building scalable web applications, exploring Artificial Intell
 ## 🚀 ABOUT ME
 
 🎓 Computer Science Student
+
 💻 Full Stack Developer with experience in modern web technologies
+
 🤖 Passionate about Artificial Intelligence & Machine Learning
+
 ☁️ Exploring AWS Cloud Computing and Deployment
+
 📚 Continuously learning new technologies and building real-world projects
+
 📌 Open to Internship Opportunities
 
 ---
