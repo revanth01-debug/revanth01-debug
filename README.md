@@ -39,7 +39,7 @@ Passionate about building scalable web applications, exploring Artificial Intell
 ## 🛠️ My Tech Toolbox
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,aws" />
+<img src="https://skillicons.dev/icons?i=python,,javascript,html,css,react,nodejs,express,mongodb,mysql,,github,vscode,,aws" />
 </p>
 
 ---
