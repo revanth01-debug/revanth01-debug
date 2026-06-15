@@ -1,42 +1,51 @@
-<h1 align="center">Hi 👋, I'm RADHARAPU REVANTH</h1>
-
-<h3 align="center">
-Aspiring AI/ML Engineer | Full Stack Developer | Computer Science Student
-</h3>
-
+```md
 <p align="center">
-Passionate about building scalable web applications, exploring Artificial Intelligence, and solving real-world problems through technology.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=220&section=header&text=Radharapu%20Revanth&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/radharapu-revanth/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
-  </a>
-  <a href="https://github.com/revanth01-debug">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=revanth01-debug&label=Profile%20Views&color=blue">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Aspiring+AI%2FML+Engineer;Full+Stack+Developer;Computer+Science+Student;Building+Real-World+Projects;Open+to+Internship+Opportunities" />
+</p>
+
+<h3 align="center">
+🚀 Passionate about AI, Machine Learning, Cloud Computing & Full Stack Development
+</h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/radharapu-revanth/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/revanth01-debug">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://revanth-portfolio-henna.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=revanth01-debug&style=for-the-badge&color=blue"/>
 </p>
 
 ---
 
-## 🚀 ABOUT ME
+# 🚀 About Me
 
 🎓 Computer Science Student
 
-💻 Full Stack Developer with experience in modern web technologies
+💻 Full Stack Developer
 
-🤖 Passionate about Artificial Intelligence & Machine Learning
+🤖 Aspiring AI & Machine Learning Engineer
 
-☁️ Exploring AWS Cloud Computing and Deployment
+☁️ Exploring AWS Cloud Technologies
 
-📚 Continuously learning new technologies and building real-world projects
+📚 Continuously learning and building real-world projects
 
 📌 Open to Internship Opportunities
 
 ---
 
-## 🛠️ MY TECH TOOLBOX
+# 🛠️ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,html,css,react" />
@@ -45,107 +54,82 @@ Passionate about building scalable web applications, exploring Artificial Intell
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,github,vscode,aws" />
 </p>
----
-## 💻 TECHNICAL SKILLS
-
-<table>
-<tr>
-<td valign="top">
-
-### Programming Languages
-- Python
-- Java
-- JavaScript
-- SQL
-
-</td>
-
-<td valign="top">
-
-### Frontend Development
-- HTML5
-- CSS3
-- React.js
-- Bootstrap
-
-</td>
-
-<td valign="top">
-
-### Backend Development
-- Node.js
-- Express.js
-### Databases
-- MongoDB
-- MySQL
-
-</td>
-</tr>
-</table>
 
 ---
 
-## 📂 FEATURED PROJECTS
+# 🌟 Featured Projects
 
 ### 🤖 RuleBot AI Chatbot
-Built an AI-powered chatbot using Python, HTML, CSS, and JavaScript.
+AI-powered chatbot built using Python, HTML, CSS and JavaScript.
 
 ### 🚀 Civic Track Platform
-Citizen issue reporting and tracking application for efficient grievance management.
+Citizen issue reporting and grievance tracking application.
 
 ### 📊 CRM Management System
-Customer relationship management platform with lead tracking and management features.
+Lead and customer relationship management platform.
 
 ### 🌐 Personal Portfolio Website
-Responsive portfolio showcasing projects, skills, certifications, and achievements.
+Modern responsive portfolio showcasing skills and projects.
 
 ### 🏆 Smart India Hackathon Project
-Innovative solution developed as part of Smart India Hackathon.
+Innovation-focused project developed for SIH.
 
 ---
 
-## 🌱 CURRENTLY LEARNING
+# 🌱 Currently Learning
 
-- Artificial intelligence & Machine Learning
+- Artificial Intelligence
+- Machine Learning
 - Data Science
-- AWS Cloud Services
-- System Design UIUX
+- AWS Cloud
+- System Design
+- UI/UX Design
 
 ---
 
-## 📈 GITHUB STATS
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=revanth01-debug&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=revanth01-debug&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revanth01-debug&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revanth01-debug&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=revanth01-debug&theme=tokyonight" />
 </p>
 
 ---
 
-## 🎯 CAREER OBJECTES
+# 📈 Contribution Graph
 
-To leverage my skills in Full Stack Development and Artificial Intelligence to build impactful solutions, contribute to innovative projects, and grow as a Software Engineer.
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=revanth01-debug&theme=tokyo-night" />
+</p>
 
 ---
 
-## 📫 CONNECT WITH ME.....
+# 📫 Connect With Me
 
-🔗 LinkedIn:  
+🔗 LinkedIn  
 https://www.linkedin.com/in/radharapu-revanth/
 
-🌐 Portfolio:  
+🌐 Portfolio  
 https://revanth-portfolio-henna.vercel.app/
 
-💻 GitHub:  
+💻 GitHub  
 https://github.com/revanth01-debug
-
-📧 Open to collaboration, internships, and exciting opportunities.
 
 ---
 
 <h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
+⭐ Thanks for Visiting My Profile ⭐
 </h3>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=120&section=footer"/>
+</p>
+```
