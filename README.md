@@ -1,16 +1,143 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Radharapu Revanth</h1>
 
-<!--
-**revanth01-debug/revanth01-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Aspiring AI/ML Engineer | Full Stack Developer | Computer Science Student
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Passionate about building scalable web applications, exploring Artificial Intelligence, and solving real-world problems through technology.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/radharapu-revanth/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
+  </a>
+  <a href="https://github.com/revanth01-debug">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=revanth01-debug&label=Profile%20Views&color=blue">
+</p>
+
+---
+
+## 🚀 About Me
+
+🎓 Computer Science Student
+
+💻 Full Stack Developer with experience in modern web technologies
+
+🤖 Passionate about Artificial Intelligence & Machine Learning
+
+☁️ Exploring AWS Cloud Computing and Deployment
+
+📚 Continuously learning new technologies and building real-world projects
+
+📌 Open to Internship Opportunities
+
+---
+
+## 🛠️ My Tech Toolbox
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,aws" />
+</p>
+
+---
+
+## 💻 Technical Skills
+
+### Programming Languages
+- Python
+- Java
+- JavaScript
+- SQL
+
+### Frontend Development
+- HTML5
+- CSS3
+- React.js
+- Bootstrap
+
+### Backend Development
+- Node.js
+- Express.js
+
+### Databases
+- MongoDB
+- MySQL
+
+### Tools & Platforms
+- Git
+- GitHub
+- VS Code
+- Postman
+- AWS (Learning)
+
+---
+
+## 📂 Featured Projects
+
+### 🤖 RuleBot AI Chatbot
+Built an AI-powered chatbot using Python, HTML, CSS, and JavaScript.
+
+### 🚀 Civic Track Platform
+Citizen issue reporting and tracking application for efficient grievance management.
+
+### 📊 CRM Management System
+Customer relationship management platform with lead tracking and management features.
+
+### 🌐 Personal Portfolio Website
+Responsive portfolio showcasing projects, skills, certifications, and achievements.
+
+### 🏆 Smart India Hackathon Project
+Innovative solution developed as part of Smart India Hackathon.
+
+---
+
+## 🌱 Currently Learning
+
+- Artificial intelligence 
+- Machine Learning
+- Data Science
+- AWS Cloud Services
+- System Design
+- Advanced React Development
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=revanth01-debug&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revanth01-debug&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Career Objective
+
+To leverage my skills in Full Stack Development and Artificial Intelligence to build impactful solutions, contribute to innovative projects, and grow as a Software Engineer.
+
+---
+
+## 📫 Connect With Me
+
+🔗 LinkedIn:  
+https://www.linkedin.com/in/radharapu-revanth/
+
+🌐 Portfolio:  
+https://revanth-portfolio-henna.vercel.app/
+
+💻 GitHub:  
+https://github.com/revanth01-debug
+
+📧 Open to collaboration, internships, and exciting opportunities.
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
