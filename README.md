@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Radharapu Revanth</h1>
+<h1 align="center">Hi 👋, I'm RADHARAPU REVANTH</h1>
 
 <h3 align="center">
 Aspiring AI/ML Engineer | Full Stack Developer | Computer Science Student
@@ -23,15 +23,10 @@ Passionate about building scalable web applications, exploring Artificial Intell
 ## 🚀 About Me
 
 🎓 Computer Science Student
-
 💻 Full Stack Developer with experience in modern web technologies
-
 🤖 Passionate about Artificial Intelligence & Machine Learning
-
 ☁️ Exploring AWS Cloud Computing and Deployment
-
 📚 Continuously learning new technologies and building real-world projects
-
 📌 Open to Internship Opportunities
 
 ---
@@ -39,12 +34,20 @@ Passionate about building scalable web applications, exploring Artificial Intell
 ## 🛠️ My Tech Toolbox
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,,javascript,html,css,react,nodejs,express,mongodb,mysql,,github,vscode,,aws" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css,react" />
 </p>
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,github,vscode,aws" />
+</p>
 ---
 
 ## 💻 Technical Skills
+## 🛠️ Technical Skills
+
+<table>
+<tr>
+<td valign="top">
 
 ### Programming Languages
 - Python
@@ -52,26 +55,45 @@ Passionate about building scalable web applications, exploring Artificial Intell
 - JavaScript
 - SQL
 
+</td>
+
+<td valign="top">
+
 ### Frontend Development
 - HTML5
 - CSS3
 - React.js
 - Bootstrap
 
+</td>
+
+<td valign="top">
+
 ### Backend Development
 - Node.js
 - Express.js
+
+</td>
+
+<td valign="top">
 
 ### Databases
 - MongoDB
 - MySQL
 
+</td>
+
+<td valign="top">
+
 ### Tools & Platforms
 - Git
 - GitHub
 - VS Code
-- Postman
 - AWS (Learning)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -96,12 +118,10 @@ Innovative solution developed as part of Smart India Hackathon.
 
 ## 🌱 Currently Learning
 
-- Artificial intelligence 
-- Machine Learning
+- Artificial intelligence & Machine Learning
 - Data Science
 - AWS Cloud Services
-- System Design
-- Advanced React Development
+- System Design UIUX
 
 ---
 
