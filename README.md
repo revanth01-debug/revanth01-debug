@@ -70,24 +70,9 @@ Passionate about building scalable web applications, exploring Artificial Intell
 ### Backend Development
 - Node.js
 - Express.js
-
-</td>
-
-<td valign="top">
-
 ### Databases
 - MongoDB
 - MySQL
-
-</td>
-
-<td valign="top">
-
-### Tools & Platforms
-- Git
-- GitHub
-- VS Code
-- AWS (Learning)
 
 </td>
 </tr>
