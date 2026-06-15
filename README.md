@@ -20,7 +20,7 @@ Passionate about building scalable web applications, exploring Artificial Intell
 
 ---
 
-## 🚀 About Me
+## 🚀 ABOUT ME
 
 🎓 Computer Science Student
 💻 Full Stack Developer with experience in modern web technologies
@@ -31,7 +31,7 @@ Passionate about building scalable web applications, exploring Artificial Intell
 
 ---
 
-## 🛠️ My Tech Toolbox
+## 🛠️ MY TECH TOOLBOX
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,html,css,react" />
@@ -41,9 +41,7 @@ Passionate about building scalable web applications, exploring Artificial Intell
 <img src="https://skillicons.dev/icons?i=mysql,github,vscode,aws" />
 </p>
 ---
-
-## 💻 Technical Skills
-## 🛠️ Technical Skills
+## 💻 TECHNICAL SKILLS
 
 <table>
 <tr>
@@ -97,7 +95,7 @@ Passionate about building scalable web applications, exploring Artificial Intell
 
 ---
 
-## 📂 Featured Projects
+## 📂 FEATURED PROJECTS
 
 ### 🤖 RuleBot AI Chatbot
 Built an AI-powered chatbot using Python, HTML, CSS, and JavaScript.
@@ -116,7 +114,7 @@ Innovative solution developed as part of Smart India Hackathon.
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 CURRENTLY LEARNING
 
 - Artificial intelligence & Machine Learning
 - Data Science
@@ -125,7 +123,7 @@ Innovative solution developed as part of Smart India Hackathon.
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GITHUB STATS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=revanth01-debug&show_icons=true&theme=tokyonight" />
@@ -137,13 +135,13 @@ Innovative solution developed as part of Smart India Hackathon.
 
 ---
 
-## 🎯 Career Objective
+## 🎯 CAREER OBJECTES
 
 To leverage my skills in Full Stack Development and Artificial Intelligence to build impactful solutions, contribute to innovative projects, and grow as a Software Engineer.
 
 ---
 
-## 📫 Connect With Me
+## 📫 CONNECT WITH ME.....
 
 🔗 LinkedIn:  
 https://www.linkedin.com/in/radharapu-revanth/
