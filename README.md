@@ -1,51 +1,20 @@
-```md
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=220&section=header&text=Radharapu%20Revanth&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Aspiring+AI%2FML+Engineer;Full+Stack+Developer;Computer+Science+Student;Building+Real-World+Projects;Open+to+Internship+Opportunities" />
-</p>
-
-<h3 align="center">
-🚀 Passionate about AI, Machine Learning, Cloud Computing & Full Stack Development
-</h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/radharapu-revanth/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/revanth01-debug">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://revanth-portfolio-henna.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=revanth01-debug&style=for-the-badge&color=blue"/>
-</p>
-
----
-
-# 🚀 About Me
+# Hi, I'm Radharapu Revanth 👋
 
 🎓 Computer Science Student
-
 💻 Full Stack Developer
-
 🤖 Aspiring AI & Machine Learning Engineer
 
-☁️ Exploring AWS Cloud Technologies
+## 🚀 About Me
 
-📚 Continuously learning and building real-world projects
-
-📌 Open to Internship Opportunities
+* Passionate about Web Development and AI/ML
+* Building real-world projects using React, Node.js, and Python
+* Interested in Machine Learning, Data Science, and Cloud Computing
+* Continuously learning and improving through hands-on projects
+* Open to Internship Opportunities
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,html,css,react" />
@@ -57,79 +26,112 @@
 
 ---
 
-# 🌟 Featured Projects
+## 💻 Technical Skills
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### Programming Languages
+
+* Python
+* Java
+* JavaScript
+* SQL
+
+</td>
+
+<td valign="top" width="33%">
+
+### Frontend Development
+
+* HTML5
+* CSS3
+* React.js
+* Bootstrap
+
+</td>
+
+<td valign="top" width="33%">
+
+### Backend & Database
+
+* Node.js
+* Express.js
+* MongoDB
+* MySQL
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📂 Featured Projects
 
 ### 🤖 RuleBot AI Chatbot
-AI-powered chatbot built using Python, HTML, CSS and JavaScript.
+
+AI-powered chatbot developed using Python, HTML, CSS, and JavaScript.
 
 ### 🚀 Civic Track Platform
-Citizen issue reporting and grievance tracking application.
+
+Citizen issue reporting and tracking platform.
 
 ### 📊 CRM Management System
-Lead and customer relationship management platform.
+
+Customer relationship and lead management platform.
 
 ### 🌐 Personal Portfolio Website
-Modern responsive portfolio showcasing skills and projects.
+
+Responsive portfolio showcasing projects, skills, and achievements.
 
 ### 🏆 Smart India Hackathon Project
-Innovation-focused project developed for SIH.
+
+Innovation-focused solution developed for SIH.
 
 ---
 
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- AWS Cloud
-- System Design
-- UI/UX Design
+* Artificial Intelligence & Machine Learning
+* Data Science
+* AWS Cloud Services
+* System Design
+* UI/UX Design
 
 ---
 
-# 📊 GitHub Statistics
+## 📈 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=revanth01-debug&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revanth01-debug&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=revanth01-debug&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revanth01-debug&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🎯 Career Objective
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=revanth01-debug&theme=tokyonight" />
-</p>
+To leverage my skills in Full Stack Development and Artificial Intelligence to build impactful solutions, contribute to innovative projects, and grow as a Software Engineer.
 
 ---
 
-# 📈 Contribution Graph
+## 📫 Connect With Me
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=revanth01-debug&theme=tokyo-night" />
-</p>
-
----
-
-# 📫 Connect With Me
-
-🔗 LinkedIn  
+🔗 LinkedIn
 https://www.linkedin.com/in/radharapu-revanth/
 
-🌐 Portfolio  
+🌐 Portfolio
 https://revanth-portfolio-henna.vercel.app/
 
-💻 GitHub  
+💻 GitHub
 https://github.com/revanth01-debug
+
+📧 Open to collaboration, internships, and exciting opportunities.
 
 ---
 
-<h3 align="center">
-⭐ Thanks for Visiting My Profile ⭐
-</h3>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=120&section=footer"/>
-</p>
-```
+⭐ Thanks for visiting my profile!
